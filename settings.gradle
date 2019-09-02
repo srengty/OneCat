@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':onecat'
 rootProject.name='OneCat'

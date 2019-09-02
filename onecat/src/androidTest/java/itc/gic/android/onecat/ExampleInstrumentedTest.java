@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("itc.gic.android.onecat", appContext.getPackageName());
+        assertEquals("itc.gic.android.onecat.test", appContext.getPackageName());
     }
 }
